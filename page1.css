@@ -1,0 +1,614 @@
+body {
+    margin:  0px;
+    padding: 0px;
+}
+
+.section11 {
+    position: relative;
+    width: 1920px;
+    height: 1080px;
+    background: url(./img/3884467.png) center no-repeat;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.frame1 {
+    position: absolute;
+    width: 208px;
+    height: 255px;
+    left: 89px;
+    top: 96px;
+    background: #1E1E1E;
+}
+
+.frame1:hover {
+    box-shadow:  0px 0px 10px 2px #40FE5E,
+                 0px 0px 10px 2px #40FE5E,
+                 0px 0px 10px 2px #40FE5E,
+                 0px 0px 10px 2px #40FE5E;
+    }
+
+
+.image1 {
+    position: absolute;
+    width: 210px;
+    height: 250px;
+    left: 2px;
+    top: 5px;
+    background-image: url(./img/romakit.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+
+}
+
+.frame11 {
+    position: relative;
+    width: 208px;
+    height: 56px;
+    left: 0px;
+    top: 254px;
+    background: #413F3F;
+}
+
+
+
+.frame11:hover {
+    box-shadow:  0px 0px 10px 2px #40FE5E,
+                 0px 0px 10px 2px #40FE5E,
+                 0px 0px 10px 2px #40FE5E,
+                 0px 0px 10px 2px #40FE5E;
+    }
+
+
+.frametext1 {
+    position: absolute;
+    width: 143px;
+    height: 40px;
+    left: 30px;
+    top: 264px;
+    margin: 0px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+    color: #40FE5E;
+}
+
+.frametext1:hover {
+    cursor: pointer;
+    box-shadow:  0px 0px 10px 2px #000000,
+                 0px 0px 10px 2px #000000,
+                 0px 0px 10px 2px #000000,
+                 0px 0px 10px 2px #000000;
+}
+
+
+
+.frame2 {
+    position: absolute;
+    width: 208px;
+    height: 265px;
+    left: 446px;
+    top: 96px;
+    background: #1E1E1E;
+}
+
+.frame2:hover {
+    box-shadow:  0px 0px 10px 2px #40FE5E,
+                 0px 0px 10px 2px #40FE5E,
+                 0px 0px 10px 2px #40FE5E,
+                 0px 0px 10px 2px #40FE5E;
+    }
+
+.image2 {
+    position: absolute;
+    width: 210px;
+    height: 250px;
+    left: 2px;
+    top: 0px;
+    background-image: url(./img/inter-kit.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+
+}
+
+
+
+.frame12 {
+    position: absolute;
+    width: 208px;
+    height: 56px;
+    left: 0px;
+    top: 254px;
+    background: #413F3F;
+}
+
+.frame12:hover {
+    box-shadow:  0px 0px 10px 2px #40FE5E,
+                 0px 0px 10px 2px #40FE5E,
+                 0px 0px 10px 2px #40FE5E,
+                 0px 0px 10px 2px #40FE5E;
+    }
+
+.frametext2 {
+    position: absolute;
+    width: 123px;
+    height: 40px;
+    left: 46px;
+    top: 260px;
+    margin: 0px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+    color: #40FE5E;
+
+}
+
+.frametext2:hover {
+    cursor: pointer;
+    box-shadow:  0px 0px 10px 2px #000000,
+                 0px 0px 10px 2px #000000,
+                 0px 0px 10px 2px #000000,
+                 0px 0px 10px 2px #000000;
+}
+
+
+.frame3 {
+    position: absolute;
+    width: 208px;
+    height: 255px;
+    left: 803px;
+    top: 96px;
+    background: #FFFFFF
+}
+
+.frame3:hover {
+    box-shadow:  0px 0px 10px 2px #40FE5E,
+                 0px 0px 10px 2px #40FE5E,
+                 0px 0px 10px 2px #40FE5E,
+                 0px 0px 10px 2px #40FE5E;
+    }
+
+.image3 {
+    position: absolute;
+    width: 208px;
+    height: 255px;
+    left: 0px;
+    top: 0px;
+    background-image: url(./img/2022.07\ 1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+
+}
+
+
+.frame13 {
+    position: absolute;
+    width: 208px;
+    height: 56px;
+    left: 0px;
+    top: 254px;
+    background: #413F3F
+}
+
+.frame13:hover {
+    box-shadow:  0px 0px 10px 2px #40FE5E,
+                 0px 0px 10px 2px #40FE5E,
+                 0px 0px 10px 2px #40FE5E,
+                 0px 0px 10px 2px #40FE5E;
+    }
+
+.frametext3 {
+    position: absolute;
+    width: 143px;
+    height: 40px;
+    left: 39px;
+    top: 260px;
+    margin: 0px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+    color: #40FE5E;
+}
+
+.frametext3:hover {
+    cursor: pointer;
+    box-shadow:  0px 0px 10px 2px #000000,
+                 0px 0px 10px 2px #000000,
+                 0px 0px 10px 2px #000000,
+                 0px 0px 10px 2px #000000;
+}
+
+.frame4 {
+    position: absolute;
+    width: 208px; 
+    height: 265px;
+    left: 89px;
+    top: 540px;
+    background: #1E1E1E;
+}
+
+.frame4:hover {
+    box-shadow:  0px 0px 10px 2px #40FE5E,
+                 0px 0px 10px 2px #40FE5E,
+                 0px 0px 10px 2px #40FE5E,
+                 0px 0px 10px 2px #40FE5E;
+    }
+
+.image4 {
+    position: absolute;
+    width: 210px;
+    height: 250px;
+    left: 2px;
+    top: 10px;
+    background-image: url(./img/psg-kit.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+
+}
+
+
+.frame14 {
+    position: absolute;
+    width: 208px;
+    height: 56px;
+    left: 0px;
+    top: 265px;
+    background: #413F3F;
+}
+
+
+.frame14:hover {
+    box-shadow:  0px 0px 10px 2px #40FE5E,
+                 0px 0px 10px 2px #40FE5E,
+                 0px 0px 10px 2px #40FE5E,
+                 0px 0px 10px 2px #40FE5E;
+    }
+
+.frametext4 {
+    position: absolute;
+    width: 130px;
+    height: 40px;
+    left: 40px;
+    top: 270px;
+    margin: 0px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+    color: #40FE5E;
+}
+
+.frametext4:hover {
+    cursor: pointer;
+    box-shadow:  0px 0px 10px 2px #000000,
+                 0px 0px 10px 2px #000000,
+                 0px 0px 10px 2px #000000,
+                 0px 0px 10px 2px #000000;
+}
+
+
+.frame5 {
+    position: absolute;
+    width: 208px;
+    height: 265px;
+    left: 446px;
+    top: 540px;
+    background: #1E1E1E;
+}
+
+.frame5:hover {
+    box-shadow:  0px 0px 10px 2px #40FE5E,
+                 0px 0px 10px 2px #40FE5E,
+                 0px 0px 10px 2px #40FE5E,
+                 0px 0px 10px 2px #40FE5E;
+    }
+
+
+.image5 {
+    position: absolute;
+    width: 210px;
+    height: 250px;
+    left: 2px;
+    top: 10px;
+    background-image: url(./img/borrusia-kit.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+
+}
+
+
+.frame15 {
+    position: absolute;
+    width: 208px;
+    height: 56px;
+    left: 0px;
+    top: 265px;
+    background: #413F3F;
+}
+
+.frame15:hover {
+    box-shadow:  0px 0px 10px 2px #40FE5E,
+                 0px 0px 10px 2px #40FE5E,
+                 0px 0px 10px 2px #40FE5E,
+                 0px 0px 10px 2px #40FE5E;
+    }
+
+.frametext5 {
+    position: absolute;
+    width: 178px;
+    height: 40px;
+    left: 20px;
+    top: 270px;
+    margin: 0px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+    color: #40FE5E;
+
+}
+
+.frametext5:hover {
+    cursor: pointer;
+    box-shadow:  0px 0px 10px 2px #000000,
+                 0px 0px 10px 2px #000000,
+                 0px 0px 10px 2px #000000,
+                 0px 0px 10px 2px #000000;
+}
+
+
+.frame6 {
+    position: absolute;
+    width: 208px;
+    height: 265px;
+    left: 803px;
+    top: 540px;
+    background: #1E1E1E;
+}
+
+
+.frame6:hover {
+    box-shadow:  0px 0px 10px 2px #40FE5E,
+                 0px 0px 10px 2px #40FE5E,
+                 0px 0px 10px 2px #40FE5E,
+                 0px 0px 10px 2px #40FE5E;
+    }
+
+
+.image6 {
+    position: absolute;
+    width: 210px;
+    height: 250px;
+    left: -2px;
+    top: 10px;
+    background-image: url(./img/Napoli\ Kit.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+
+}
+
+
+.frame16 {
+    position: absolute;
+    width: 208px;
+    height: 56px;
+    left: 0px;
+    top: 265px;
+    background: #413F3F;
+}
+
+.frame16:hover {
+    box-shadow:  0px 0px 10px 2px #40FE5E,
+                 0px 0px 10px 2px #40FE5E,
+                 0px 0px 10px 2px #40FE5E,
+                 0px 0px 10px 2px #40FE5E;
+    }
+
+
+.frametext6 {
+    position: absolute;
+    width: 150px;
+    height: 44px;
+    left: 32px;
+    top: 270px;
+    margin: 0px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+    color: #40FE5E;
+}
+
+.frametext6:hover {
+    cursor: pointer;
+    box-shadow:  0px 0px 10px 2px #000000,
+                 0px 0px 10px 2px #000000,
+                 0px 0px 10px 2px #000000,
+                 0px 0px 10px 2px #000000;
+}
+
+#modal {
+    display:none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height:100%;
+    overflow: hidden;
+    background-image: url(./img/moDALblack.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+#close-modal {
+    color: #aaa;
+    float: right;
+    font-size: 58px;
+    font-weight: bold;
+    right: 2px;
+    top: -10px;
+}
+
+/*#modal-content {
+    position: absolute;
+    background-color: #2c2929;
+    margin : 10% auto;
+    padding: 20px;
+    border : 1px solid #888;
+    width: 50%;
+}*/
+
+
+.modal_image1 {
+    background-image: url(./img/modalcont1.png);
+    position: absolute;
+    width: 933px;
+    height: 456px;
+    left: 27px;
+    top: 0px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+
+.modal_image2 {
+    background-image: url(./img/Roma\ modal2\ \(2\)\ \(1\).png);
+    position: absolute;
+    width: 434px;
+    height: 446px;
+    left: 27px;
+    top: 470px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.modal_image3 {
+    background-image: url(./img/romaf.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    position: absolute;
+    width: 430px;
+    height:  446px;
+    left: 530px;
+    top: 470px;
+}
+
+
+
+.zaholovok {
+    position: absolute;
+    width: 270px;
+    height: 43px;
+    left: 1272px;
+    top: 0px;
+    font-family: 'Kulim Park';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 45px;
+    color: #40FE5E;
+}
+
+
+.infotext1 {
+    position: absolute;
+    width: 831px;
+    height: 153px;
+    left: 989px;
+    top: 360px;
+    font-family: 'Kulim Park';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 36px;
+    color: #FFFFFF;
+    border: 4px solid black;
+    padding: 10px;
+}
+
+.infotext1:hover {
+    cursor: pointer;
+}
+
+.pricetext {
+    position: absolute;
+    width: 231px;
+    height: 54px;
+    left: 993px;
+    top: 810px;
+    font-family: 'Kulim Park';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 54px;
+    color: #FFFFFF;
+}
+
+#pokupka {
+    position: absolute;
+    width: 305px;
+    height: 71px;
+    right: 10px;
+    top: 840px;
+    background: #A3A7A3;
+}
+
+#pokupka:hover {
+    box-shadow:  0px 0px 10px 2px #40FE5E,
+                 0px 0px 10px 2px #40FE5E,
+                 0px 0px 10px 2px #40FE5E,
+                 0px 0px 10px 2px #40FE5E;
+}
+
+
+#lotext {
+    position: absolute;
+    width: 89px;
+    height: 56px;
+    right: 112px;
+    top: 800px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 58px;
+    color: #FFFFFF;
+}
+
+#lotext:hover  {
+    cursor: pointer;
+    box-shadow: 0px 0px 10px 2px #000000;
+}
+
+
+
+
+#close-modal:hover,
+#close-modal:focus {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+
